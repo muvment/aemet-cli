@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="1.0"
-URL="http://www.aemet.es/xml/municipios/localidad_"
+URL="https://www.aemet.es/xml/municipios/localidad_"
 XML=".xml"
 
 echo -e "Copyright 2017 David Población Criado"
